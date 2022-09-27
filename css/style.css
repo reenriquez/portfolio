@@ -1,17 +1,17 @@
 /* * FONT FACE */
 @font-face {
   font-family: 'Robot_Slab';
-  src: url('fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf') format('truetype');
+  src: url('css/fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Poppins';
-  src: url('fonts/Poppins/Poppins-Light.ttf') format('truetype');
+  src: url('css/fonts/Poppins/Poppins-Light.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Mitr';
-  src: url('fonts/Mitr/Mitr-Medium.ttf') format('truetype');
+  src: url('css/fonts/Mitr/Mitr-Medium.ttf') format('truetype');
 }
 
 /* END */
