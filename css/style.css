@@ -1,17 +1,17 @@
 /* * FONT FACE */
 @font-face {
   font-family: 'Robot_Slab';
-  src: url('/css/fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf') format('truetype');
+  src: url('css/fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Poppins';
-  src: url('/css/fonts/Poppins/Poppins-Regular.ttf') format('truetype');
+  src: url('css/fonts/Poppins/Poppins-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Mitr';
-  src: url('/css/fonts/Mitr/Mitr-Medium.ttf') format ('truetype');
+  src: url('css/fonts/Mitr/Mitr-Medium.ttf') format ('truetype');
 }
 
 /* END */
@@ -454,7 +454,7 @@
 
 
 .resume-section {
-  background: url("/css/bg11.png"), no-repeat;
+  background: url("css/bg11.png"), no-repeat;
   justify-content: center;
   height: 188vh;
   width: 100%;
