@@ -67,7 +67,7 @@
 }
 
 .background-img {
-  background: url("css/image.jpg"), no-repeat;
+  background: no-repeat;
   position: fixed;
   position: absolute;
   width: 100vw;
