@@ -855,7 +855,7 @@
 
 .projectts {
   display: inline-block;
-  list-style: inside;
+  list-style: square inside;
   font-family: var(--content);
   font-size: 18px;
   margin-top: -2em;
@@ -884,7 +884,7 @@
 }
 
 .certs-ul {
-  list-style: inside;
+  list-style: square inside;
   font-family: var(--content);
   font-size: 18px;
   margin-top: -2em;
