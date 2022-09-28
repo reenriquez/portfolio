@@ -329,6 +329,8 @@
   border-radius: 50%;
   margin-right: 28em;
   margin-top: 3em;
+  object-fit: cover;
+  object-position: top;
 
 }
 
